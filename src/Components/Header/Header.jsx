@@ -3,10 +3,14 @@ import "./header.css";
 
 function Header() {
     const[Toggle, ShowMenu] = useState(false);
-    const [toggleState, setToggleState] = useState(1);
+    const [toggleState, setToggleState] = useState(0);
     const toggleTab = (index)=>{
         setToggleState(index);
     };
+   
+
+    
+   
   return (
     <header className='header'>
         <nav className='nav container'>

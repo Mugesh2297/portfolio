@@ -5,6 +5,7 @@ import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
+import Portfolio from './Components/Portfolio/Portfolio';
 import Qualification from './Components/Qualification/Qualification';
 import Scrollup from './Components/ScrollUp/Scrollup';
 import Skills from './Components/Skills/Skills';
@@ -19,6 +20,7 @@ function App() {
       <About/>
       <Skills/>
       <Qualification/>
+      <Portfolio/>
       <Contact/>
      
     

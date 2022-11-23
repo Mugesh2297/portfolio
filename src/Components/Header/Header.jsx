@@ -37,7 +37,7 @@ function Header() {
                 </li>
 
                 <li className='nav__item'>
-                 <a href="#potrfolio" className= {toggleState === 4 ? "nav__link  active-link":"nav__link"}
+                 <a href="#portfolio" className= {toggleState === 4 ? "nav__link  active-link":"nav__link"}
                  onClick={()=>toggleTab(4)}>
                     <i className='uil uil-scenery nav__icon'></i>
                     Portfolio

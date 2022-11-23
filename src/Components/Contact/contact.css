@@ -67,8 +67,12 @@
 
 .contact__form-div{
     position: relative;
-    margin-bottom: var(--mb-2);
+    margin-bottom: var(--mb-1);
     height: 4rem;
+}
+.span__error{
+    display: block;
+    margin-bottom: var(--mb-0-75);
 }
 
 .contact__form-input{

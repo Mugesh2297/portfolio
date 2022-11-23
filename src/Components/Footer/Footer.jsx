@@ -24,12 +24,16 @@ const Footer = () => {
                 </li>
             </ul>
             <div className='footer__social'>
-            <a href="#linked" className='footer__social-link' target="_blank">
+            <a href="https://www.linkedin.com/in/mugesh-kumar-4344a9156" className='footer__social-link' target="_blank">
         <i className="bx bxl-linkedin"></i>
         </a>
 
         <a href="https://github.com/Mugesh2297" className='footer__social-link' target= "_blank">
         <i className="bx bxl-github"></i>
+        </a>
+
+        <a href="mailto:mugeshkumark22@gmail.com" className='footer__social-link' target= "_blank">
+        <i class='bx bxs-envelope' ></i>
         </a>
             </div>
             <span className='footer__copy'>&#169; Mugesh Kumar K. All rights reserved</span>

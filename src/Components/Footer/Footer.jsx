@@ -36,7 +36,7 @@ const Footer = () => {
         <i class='bx bxs-envelope' ></i>
         </a>
             </div>
-            <span className='footer__copy'>&#169; Mugesh Kumar K. All rights reserved</span>
+            <span className='footer__copy'>Copyrights 2022 &#169; | Designed by Mugesh Kumar K </span>
         </div>
     </footer>
   )

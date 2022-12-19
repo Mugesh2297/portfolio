@@ -1,7 +1,6 @@
-import work1 from "../../assests/work1.jpg";
-import work2 from "../../assests/work2.jpg";
-import work3 from "../../assests/work3.jpg";
-import work4 from "../../assests/work4.jpg";
+import work1 from "../../assests/Work1.png";
+import work2 from "../../assests/Work2.png";
+
 
 
 

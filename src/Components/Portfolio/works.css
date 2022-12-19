@@ -17,9 +17,10 @@
 }
 
 .work__img{
-    width: 295px;
+    width:300px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
+    height:150px;
 
 }
 

@@ -10,22 +10,26 @@ export const projectsData = [
 {
     id:1,
     image: work1,
-    title: "Project1"
+    title: "CRM App",
+    demo:"https://crm22.netlify.app/",
+    git: "https://github.com/Mugesh2297/frontendcrm",
 },
 {
     id:2,
     image: work2,
-    title: "Project2"
+    title: "Bookkeeping App",
+    demo:"https://bookkeeping22.netlify.app/",
+    git: "https://github.com/Mugesh2297/bookkeeping",
 },
-{
-    id:3,
-    image: work3,
-    title: "Project3"
-},
-{
-    id:4,
-    image: work4,
-    title: "Project4"
-}
+// {
+//     id:3,
+//     image: work3,
+//     title: "Project3"
+// },
+// {
+//     id:4,
+//     image: work4,
+//     title: "Project4"
+// }
 
 ]

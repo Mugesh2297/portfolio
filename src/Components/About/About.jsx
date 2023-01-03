@@ -16,7 +16,7 @@ function About() {
          <p className='about__description'>Certified Full Stack Developer with quite few own projects looking for an 
          opportunity to work and excel my skills in an organization and 
          interested to explore and work on complex projects.</p>
-         <a  href="https://drive.google.com/drive/u/1/folders/1sRLBU6kZz02uZyNsJL8D1xFMHUwY2kAc" 
+         <a  href="https://drive.google.com/file/d/1pw6fNdoaPpeK0-vksh1BfqnB9u3hDgb6/view" 
          className="button button__cv button--flex" target="_blank">Download CV</a>
         </div>
         </div>

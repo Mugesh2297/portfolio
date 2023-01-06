@@ -84,13 +84,30 @@ function Qualification() {
                                 Quality Controller
                                 </span>
                                 <div className='qualification__calender'>
-                                    <i className='uil uil-calendar-alt'></i>  2018-2022
+                                    <i className='uil uil-calendar-alt'></i>  2018-2021
                                 </div>
                             </div>
                             <div>
                                 <span className='qualification__rounder'></span>
                                 <span className='qualification__line'></span>
                             </div>
+                        </div>
+                        <div className='qualification__data'>
+                            <div></div>
+                            <div>
+                                <span className='qualification__rounder'></span>
+                                <span className='qualification__line'></span>
+                            </div>
+                            <div>
+                                <h3 className='qualification__title'>AG Resources India Pvt Ltd</h3>
+                                <span className='qualification__subtitle'>
+                                Graphic Designer
+                                </span>
+                                <div className='qualification__calender'>
+                                    <i className='uil uil-calendar-alt'></i>  2021-2022
+                                </div>
+                            </div>
+
                         </div>
                         
                        

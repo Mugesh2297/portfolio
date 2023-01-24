@@ -10,23 +10,44 @@
     padding: 1.25rem;
     border-radius: 1rem;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    width: 400px;
 }
 
 .work__card:hover{
     transform: scale(1.1);
 }
 
+.techStackArea{
+    margin-bottom: 15px;
+}
+.techText{
+    color: black;
+}
+.techButton{
+    margin: 3px;
+    padding: 5px;
+    background-color: var(--text-color);
+    color: white;
+    border-radius: 10px;
+}
 .work__img{
     width:300px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
     height:150px;
+    justify-content: center;
+    margin: auto;
+  display: block;
 
 }
 
 .work__title{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
+    margin-top: var(--mb-0-5);;
+    margin-bottom: var(--mb-0-5);
+}
+.description{
     margin-bottom: var(--mb-0-5);
 }
 
@@ -46,6 +67,7 @@
 .work__button:hover .work__button-icon{
     transform: translateX(0.25rem);
 }
+
 
 @media screen and (max-width: 992px){
     .work__container{

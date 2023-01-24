@@ -12,13 +12,25 @@ export const projectsData = [
     title: "CRM App",
     demo:"https://crm22.netlify.app/",
     git: "https://github.com/Mugesh2297/frontendcrm",
+    des:"CRM App used to maintain the relationship status of the customer services helps us to know the lead status includes middleware option for manager/admin or user ",
+    techStack1: "Reactjs",
+    techStack2: "Expressjs",
+    techStack3: "Mongodb",
+    techStack4: "Bootstrap",
+
 },
+
 {
     id:2,
     image: work2,
     title: "Bookkeeping App",
     demo:"https://bookkeeping22.netlify.app/",
     git: "https://github.com/Mugesh2297/bookkeeping",
+    des:"Bookkeeping app helps to track the expenses, seller and customer details of the business, chart.js is used to represent the data of expense details in chart",
+    techStack1: "Reactjs",
+    techStack2: "Expressjs",
+    techStack3: "Mongodb",
+    techStack4: "Bootstrap",
 },
 // {
 //     id:3,
